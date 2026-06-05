@@ -92,7 +92,7 @@ pip install asyncpg==0.29.0
 psql -U postgres
 ```
 
-Password kiritilsa: `Ac0451241` (sizning parolingiz)
+Password kiritilsa: `Ac****41` (sizning parolingiz)
 
 ### 2. Database yaratish:
 
@@ -135,18 +135,18 @@ python test_db.py
 `.env` faylni oching va ma'lumotlarni tekshiring:
 
 ```env
-BOT_TOKEN=8470618802:AAGK1g0j4j4PI3KO3DVjR9nk6LEIbK6eZ5k
-ADMIN_ID=7975671119
+BOT_TOKEN=84***********************************5k
+ADMIN_ID=79******19
 
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=kinohub
 DB_USER=postgres
-DB_PASSWORD=Ac0451241
+DB_PASSWORD=Ac****41
 
-PUBLIC_CHANNEL_ID=-1003770277367
-PUBLIC_CHANNEL_USERNAME=@uzpornone
-PRIVATE_CHANNEL_ID=-1003879758485
+PUBLIC_CHANNEL_ID=-1**********7
+PUBLIC_CHANNEL_USERNAME=@u********e
+PRIVATE_CHANNEL_ID=-1************5
 ```
 
 **MUHIM:** Barcha qiymatlar to'g'ri ekanligiga ishonch hosil qiling!
