@@ -52,18 +52,18 @@ CREATE DATABASE kinohub;
 `.env` faylda o'z ma'lumotlaringizni tekshiring:
 
 ```env
-BOT_TOKEN=8470618802:AAGK1g0j4j4PI3KO3DVjR9nk6LEIbK6eZ5k
-ADMIN_ID=7975671119
+BOT_TOKEN=8****************************k
+ADMIN_ID=7********9
 
 DB_HOST=localhost
 DB_PORT=5432
-DB_NAME=kinohub
+DB_NAME=k******b
 DB_USER=postgres
-DB_PASSWORD=Ac0451241
+DB_PASSWORD=A*******1
 
-PUBLIC_CHANNEL_ID=-1003770277367
-PUBLIC_CHANNEL_USERNAME=@uzpornone
-PRIVATE_CHANNEL_ID=-1003879758485
+PUBLIC_CHANNEL_ID=-1**********7
+PUBLIC_CHANNEL_USERNAME=@u******e
+PRIVATE_CHANNEL_ID=-1***********5
 ```
 
 ### 6. Botni ishga tushirish
