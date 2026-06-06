@@ -189,7 +189,7 @@ async def add_movie_save(callback: CallbackQuery, state: FSMContext, bot: Bot):
     
     # Public kanalga post qilish
     try:
-        caption = f"📽 <b>{data['title']}</b>\n\nKinoni olish uchun: @echouz_robot\n🔢 Kod: <code>{movie_id}</code>"
+        caption = f"📽 <b>{data['title']}</b>\n\nKinoni olish uchun: @Hyper_cinema_bot\n🔢 Kod: <code>{movie_id}</code>"
         
         if data.get('trailer_photo'):
             await bot.send_photo(
